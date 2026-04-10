@@ -25,7 +25,8 @@ Our mission is to pioneer tools, techniques, and materials that shape the next c
 ---
 
 ## 🧪 Subsidiaries
-- [**Wonder-moe**](https://github.com/Wonder-moe) → Our consumer-facing technology branch  
+- [**Wonder-moe**](https://github.com/Wonder-moe) → Our consumer-facing technology branch
+- [**Entelijans Group**](https://github.com/Entelijans-Corp) → Our Haitian Infrastructure Division  
 
 ---
 
